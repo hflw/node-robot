@@ -1,7 +1,7 @@
 {
   "name": "node-robot",
   "author": "Will Riley <will@hflw.org>",
-  "description": "A framework for controlling robots with node",
+  "description": "An adapter-agnostic framework for controlling robots with node. Has adapters for EV3.",
   "repository": "https://github.com/hflw/node-robot.git",
   "version": "0.0.3",
   "scripts": {
